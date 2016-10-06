@@ -17,7 +17,7 @@ Since `hashlib` is "backed" by OpenSSL, all algorithms provided by that library 
 ### Reference materials
 
 ##### Hmac
-[hmac doc](http://docs.python.org/library/hamac.html)
+[hmac doc](https://docs.python.org/3/library/hmac.html#module-hmac)
 The standard library documentation for this module.
 
 ##### RFC 2104
@@ -25,12 +25,10 @@ The standard library documentation for this module.
 HMAC: keyed-Hashing for Message Authentication.
 
 #### hashlib
+[hashlib](https://docs.python.org/3/library/hashlib.html#module-hashlib)
 The hashlib module provides the hash generators listed above.
 
 #### pickle
+[pickle](https://docs.python.org/3/library/pickle.html#module-pickle)
 Serialization library.
-
-[Authenticating to Amazon S3 Web Service]
-(http://docs.amazonwebservices.com/AmazonS3/2006-03-01/index.html?S3_Authentication.html)
-Instructions for authenticating to S3 using HMAC-SHA1 singed credentials.
 
